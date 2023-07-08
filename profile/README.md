@@ -7,7 +7,7 @@ We are expanding the cooking universe.
 
 - [@lgrachov](https://www.github.com/lgrachov)
 - [@grachov](https://www.github.com/grachov)
-
+- [@Svetlanakrasyuk1](https://www.github.com/Svetlanakrasyuk1
 
 ## About Us
 We are the largest cooking universe.
