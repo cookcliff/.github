@@ -1,17 +1,2 @@
-# Cookcliff
-
-We are expanding the cooking universe.
-
-
-## Authors
-
-- [@lgrachov](https://www.github.com/lgrachov)
-- [@grachov](https://www.github.com/grachov)
-- [@Svetlanakrasyuk1](https://www.github.com/Svetlanakrasyuk1)
-
-## About Us
-We are the largest cooking universe.
-
-***
-
-<sub>Thanks for choosing us!<sub>
+<!-- (C) Cookcliff 2023, This file is licensed with the LICENSE in the root directory. -->
+<img src="https://cookcliff.github.io/images/Cookcliff_README.png"><h1 align="center">Cookcliff</h1><p align="center">🍓🍌 The biggest Food & Cooking community ever.<br><a href="https://github.com/cookcliff"><strong>Explore our OSS »</strong></a><br><br><a href="https://discord.gg/yXYEggEt5C">Discord</a>·<a href="https://cookcliff.github.io/Events">Events</a>·<a href="https://twitter.com/cookcliff_">Twitter</a>·</p><div align="center"><h1>Contributing</h1><p>🧍‍♂️ Our community is open to anyone!</p></div><div align="center"><br><sub>Thanks for cooking.</sub></div>
